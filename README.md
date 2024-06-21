@@ -1,1 +1,1 @@
-# ml-ai
+the beautiful journey through machine learning and artificial inteligence.
